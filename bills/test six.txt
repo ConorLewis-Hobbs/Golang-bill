@@ -1,0 +1,6 @@
+Bill breakdown: 
+Pie:                      £2.5 
+Beans:                    £1.5 
+carrot:                   £0.5 
+tip:                      £10.00 
+total:                    £14.50 
