@@ -70,16 +70,4 @@ func promptOptions(b bill) {
 func main() {
 	mybill := createBill()
 	promptOptions(mybill)
-
-	// fmt.Println(mybill)
 }
-
-// mybill := newBill("mario's bill")
-
-// mybill.updateTip(10)
-// mybill.addItem("onion soup", 4.50)
-// mybill.addItem("pot pie", 5.90)
-// mybill.addItem("carrot cake", 2.50)
-// mybill.addItem("coffee", 1.50)
-
-// fmt.Println(mybill.format())
