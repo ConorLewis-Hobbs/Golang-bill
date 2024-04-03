@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func booleans() {
 	age := 50
 
 	fmt.Println(age <= 50)

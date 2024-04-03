@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func maps() {
 
 	menu := map[string]float64{
 		"soup":           4.99,

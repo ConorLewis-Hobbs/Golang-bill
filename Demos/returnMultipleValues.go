@@ -29,7 +29,7 @@ func getInitials(name string) (string, string) {
 	}
 }
 
-func main() {
+func returnMultiple() {
 	fn1, sn1 := getInitials("conor hobbs")
 	fmt.Println(fn1, sn1)
 

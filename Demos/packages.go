@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 
-func main() {
+func packages() {
 	greeting := "Hello world"
 
 	fmt.Println(strings.Contains(greeting, "Hello"))

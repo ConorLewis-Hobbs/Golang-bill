@@ -26,7 +26,7 @@ func areaOfCircle(r float64) float64 {
 	//takes
 }
 
-func main() {
+func multipleReturns() {
 	sayGreeting("Conor")
 	//Good morning Conor
 

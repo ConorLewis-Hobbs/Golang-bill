@@ -6,7 +6,7 @@ func updateName(newName *string) {
 	*newName = "Bonnie"
 }
 
-func main() {
+func pointers() {
 	name := "Rick"
 
 	fmt.Println("memory address of name is: ", &name)
